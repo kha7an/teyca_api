@@ -1,0 +1,5 @@
+- **Ruby on Rails 8.0.1**
+- **Ruby 3.3.7**
+- **SQLite3**
+- **Interactor pattern**
+- **Postman API collection**
